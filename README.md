@@ -28,4 +28,8 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Adarsh12325/LeetCodes/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Adarsh12325/LeetCodes/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Adarsh12325/LeetCodes/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/Adarsh12325/LeetCodes/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
