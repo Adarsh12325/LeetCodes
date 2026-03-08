@@ -33,4 +33,20 @@
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/Adarsh12325/LeetCodes/tree/main/0175-combine-two-tables/) | Easy |
 | [0176-second-highest-salary](https://github.com/Adarsh12325/LeetCodes/tree/main/0176-second-highest-salary/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1980-find-unique-binary-string](https://github.com/Adarsh12325/LeetCodes/tree/main/1980-find-unique-binary-string/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1980-find-unique-binary-string](https://github.com/Adarsh12325/LeetCodes/tree/main/1980-find-unique-binary-string/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1980-find-unique-binary-string](https://github.com/Adarsh12325/LeetCodes/tree/main/1980-find-unique-binary-string/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1980-find-unique-binary-string](https://github.com/Adarsh12325/LeetCodes/tree/main/1980-find-unique-binary-string/) | Medium |
 <!---LeetCode Topics End-->
